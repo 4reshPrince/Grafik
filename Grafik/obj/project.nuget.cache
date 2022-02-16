@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "feBoNChSWo2YNbB0ZyZRuP+y2CwSCTodWza+6ItDZRXe5iee3zMhZ0AZoffNeO7rpbDWqcHthzS/NS1Bet7xaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\torell.jordan\\Documents\\Programering\\Grafik\\Grafik\\Grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torell.jordan\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\torell.jordan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
